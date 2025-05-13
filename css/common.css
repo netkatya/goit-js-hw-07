@@ -107,6 +107,7 @@ ul,ol {
 .login-form {
   width: 408px;
   padding: 24px;
+  margin: 0 auto;
 }
 
 .form-label {
@@ -152,6 +153,7 @@ ul,ol {
   width: 345px;
   height: 280px;
   background: #fff;
+  margin: 0 auto;
 }
 .color-text {
   font-weight: 400;
